@@ -123,18 +123,7 @@ You can check the production URL (https://Berry.reactbd.com/) for demo purposes.
 
 Do not commit .env.local to version control, as it contains sensitive data. Next.js automatically excludes it via .gitignore.
 
-Populate your Sanity project with sample data (e.g., products or blog posts) by running:
-
-```bash
-npx sanity@latest dataset import seed.tar.gz
-```
-
-#### Notes:
-
-This step is optional and requires a seed.tar.gz file, which may be included with the template.
-Place the seed.tar.gz file in the project root before executing the command.
-
-## 5. Start the Development Server 🚀
+## 4. Start the Development Server 🚀
 
 Launch the Next.js development server to run the application locally.
 Run one of the following commands:
@@ -152,7 +141,7 @@ pnpm dev
 
 ```
 
-## 6. Access the Application 🌐
+## 5. Access the Application 🌐
 
 Once the server is running, access the application at:
 
