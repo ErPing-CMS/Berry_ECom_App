@@ -123,10 +123,6 @@ You can check the production URL (https://Berry.reactbd.com/) for demo purposes.
 
 Do not commit .env.local to version control, as it contains sensitive data. Next.js automatically excludes it via .gitignore.
 
-## 4. (Optional) Import Demo Seed Data 📚 for Purchased version only
-
-## Purchased from (https://buymeacoffee.com/reactbd/e/344052)
-
 Populate your Sanity project with sample data (e.g., products or blog posts) by running:
 
 ```bash
